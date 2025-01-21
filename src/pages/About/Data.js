@@ -10,7 +10,7 @@ let tes = [
 	},
 	{
 		img: require('./Debanjan.jpeg'),
-		name: 'Debanjan Mukherjee',
+		name: 'Aritra Sarkar',
 		skill: 'Front End Developer',
         giturl:'https://github.com/RickDeb2004',
         ldkurl:'https://www.linkedin.com/in/debanjan-mukherjee-181615224/',
@@ -18,7 +18,7 @@ let tes = [
 	},
 	{
 		img: require('./Animesh.jpeg'),
-		name: 'Animesh Barik',
+		name: 'Saheli Saha',
 		skill: 'Front End Developer',
         giturl:'https://github.com/Animesh239',
         ldkutl:'https://www.linkedin.com/in/animesh239/',
@@ -26,11 +26,11 @@ let tes = [
 	},
 	{
 		img: require('./Rohit.jpeg'),
-		name: 'Rohit Gupta',
-		skill: 'Backend DeveLoper',
+		name: 'Priyanka Biswas',
+		skill: 'DeveLoper',
         giturl:'https://github.com/RohitGupta1332',
         ldkurl:'https://www.linkedin.com/in/rohit-gupta-4148b6273/',
-        bio:"Rohit Gupta, A BCA student at Techno India Hooghly. Skilled in HTML, CSS, JavaScript, SQL, Java, Spring Boot, Hibernate. Passionate about learning new technologies. Enjoys programming tutorials, web series, and movies."
+        bio:"A BCA student at Techno India Hooghly. Skilled in HTML, CSS, JavaScript, SQL, Java, Spring Boot, Hibernate. Passionate about learning new technologies. Enjoys programming tutorials, web series, and movies."
 	}
 ]
 
