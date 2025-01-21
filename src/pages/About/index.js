@@ -15,11 +15,6 @@ class Tes extends Component {
           key={Math.random()}
         >
           <div className="p-profile mb-3 text-center">
-            <img
-              className="pic rounded-circle shadow-lg"
-              alt="testimonials"
-              src={item.img}
-            />
           </div>
           <div className="user-primary text-center mb-4">
             <h5 className="name text-capitalize">{item.name}</h5>
@@ -33,24 +28,6 @@ class Tes extends Component {
               <FormatQuoteIcon/>
               </span>
             </p>
-          </div>
-          <div className="accounts text-center">
-            <a
-              href={item.ldkurl}
-              className="p-2"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <LinkedIn/>
-            </a>
-            <a
-              href={item.giturl}
-              className="p-2"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <GitHub/>
-            </a>
           </div>
       </div>
       );
